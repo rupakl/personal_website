@@ -8,7 +8,7 @@ name = "My Theme: Rupak"
 light = true
 
 # Primary
-primary = "#328cc1" # changes colors of links
+primary = "#284f7a" #"#328cc1" # changes colors of links
 
 # Menu
 menu_primary = "#122140"
