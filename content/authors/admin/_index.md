@@ -31,10 +31,11 @@ education:
   - course: MS in Computer Science and Engineering
     institution: IIIT Hyderabad
     year: 2020 (Currently pursuing)
-    logo: logo-ksv.png
+    logo_url: https://alumni.iiit.ac.in/assets/site_content/151461301/logo.png
   - course: B.E in Computer Engineering
     institution: Kadi Sarva Vishwavidyalaya
     year: 2017
+    logo_url: http://ksv.ac.in/wp-content/uploads/2019/12/ksv.png
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

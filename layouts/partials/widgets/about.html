@@ -94,8 +94,12 @@
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+          <li>            
+            {{ if .logo_url}}
+              <img class= "ul.ul-edu li imglogo" src="{{ .logo_url }}">
+            {{ else }}
+              <i class="fa-li fas fa-graduation-cap"></i>
+            {{ end }}
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
