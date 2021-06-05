@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently an MS by Research student at IIIT Hyderabad, working under the supervision of Prof. C. V. Jawahar. My research focuses on the problem of understanding charts in academic documents. Before joining IIIT Hyderabad, I worked as a Senior Machine Learning Engineer at AIMonk Labs Pvt Ltd working on Video Analytics and Document Image Analysis using computer vision and deep learning.
+I am currently an MS by Research student at IIIT Hyderabad, working under the supervision of Prof. C. V. Jawahar. My research focuses on the problem of understanding charts in academic documents. Before joining IIIT Hyderabad, I worked as a Senior Machine Learning Engineer at AIMonk Labs Pvt Ltd working on video analytics and document image analysis using computer vision and deep learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/files/rupak-resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
