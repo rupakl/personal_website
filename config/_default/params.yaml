@@ -114,7 +114,7 @@ marketing:
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
-  plausible_data_domain: "https://rupakl.github.io/"
+  plausible_data_domain: "rupakl.github.io"
   plausible_script: 'https://rupaklselfhost.centralindia.cloudapp.azure.com/js/plausible.js' #"https://example.com/js/plausible.js"
 cms:
   branch: master
