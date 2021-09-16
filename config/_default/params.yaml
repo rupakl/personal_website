@@ -109,12 +109,14 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'UA-199034391-1'
+  # google_analytics: 'UA-199034391-1' #github pages
+  google_analytics: 'UA-199034391-2' # preon.iiit.ac.in
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
-  plausible_data_domain: "rupakl.github.io"
+  # plausible_data_domain: "rupakl.github.io" 
+  plausible_data_domain: "preon.iiit.ac.in" 
   plausible_script: 'https://rupaklselfhost.centralindia.cloudapp.azure.com/js/script.js' 
   plausible_data_api: 'https://rupaklselfhost.centralindia.cloudapp.azure.com/api/event'
 cms:

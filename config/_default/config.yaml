@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rupak Lazarus # Website name
-baseurl: 'https://rupakl.github.io/' # Website URL
+# baseurl: 'https://rupakl.github.io/' # Website URL
+baseurl: 'http://preon.iiit.ac.in/~rupak_lazarus/' # Website URL
 copyright: '© {year} Rupak Lazarus' # Footer text, e.g. '© {year} Me'
 
 ############################
